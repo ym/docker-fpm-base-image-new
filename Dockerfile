@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM ubuntu:precise
 
 WORKDIR /root
 USER root
